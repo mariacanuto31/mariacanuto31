@@ -19,15 +19,11 @@
 🎯 My goal is to become a Software Engineer and build innovative solutions that make a positive impact
 
 ## 💻 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,git,github,vscode" />
+</p>
 
-- C
-- HTML5
-- CSS3
-- JavaScript
-- Power BI
-- Git
-- GitHub
-- Visual Studio Code
+Power BI • Learning SQL • Microsoft Office
 
 ## 📚 Currently Studying
 
