@@ -1,16 +1,54 @@
 ## Hi there 👋
 
-<!--
-**mariacanuto31/mariacanuto31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Arima Canuto 👋
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Engineering student at Estácio University (Brazil)
+
+💡 Passionate about Software Development, Data Analysis, and Technology.
+
+🌱 Currently learning:
+
+- C Programming
+- HTML & CSS
+- JavaScript
+- Power BI
+- Git & GitHub
+
+🎯 My goal is to become a Software Engineer and build innovative solutions that make a positive impact
+
+## 💻 Tech Stack
+
+- C
+- HTML5
+- CSS3
+- JavaScript
+- Power BI
+- Git
+- GitHub
+- Visual Studio Code
+
+## 📚 Currently Studying
+
+- Software Engineering
+- Data Structures
+- Database Fundamentals
+- Web Development
+- Data Analytics
+
+## 🎯 2026 Goals
+
+- 🚀 Build a strong portfolio
+- 💼 Get my first internship in Technology
+- 📊 Develop Power BI dashboards
+- 🌐 Create Full Stack projects
+- ☁️ Learn Cloud Computing
+
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/maria-luiza-canuto-b88960389
+- 📧 Email: malucsiva2008@gmail.com
+
+⭐ Thanks for visiting my profile!
