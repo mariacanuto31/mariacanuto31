@@ -21,16 +21,15 @@
 ## 📊 Github Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mariacanuto31&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacanuto31&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mariacanuto31&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacanuto31&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ## 🔥 Contribuion Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=mariacanuto31&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=mariacanuto31&theme=tokyonight"/>
 </p>
-
 
 ## 💻 Tech Stack
 <p align="left">
