@@ -4,11 +4,6 @@
 
 ## 👩‍💻 About Me
 
-## 🚀 Tecnologias
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,html,css,js,mysql,powershell" />
-</p>
 🎓 Computer Engineering student at Estácio University (Brazil)
 
 💡 Passionate about Software Development, Data Analysis, and Technology.
@@ -23,14 +18,14 @@
 
 🎯 My goal is to become a Software Engineer and build innovative solutions that make a positive impact
 
-## 📊 Estatísticas
+## 📊 Github Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mariacanuto31&show_icons=true&theme=tokyonight"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacanuto31&layout=compact&theme=tokyonight"/>
 </p>
 
-## 🔥 Contribuições
+## 🔥 Contribuion Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mariacanuto31&theme=tokyonight"/>
@@ -42,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=c,html,css,js,git,github,vscode" />
 </p>
 
-Power BI • Learning SQL • Microsoft Office
+Power BI • Microsoft Office
 
 ## 📚 Currently Studying
 
@@ -64,7 +59,7 @@ Power BI • Learning SQL • Microsoft Office
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/maria-luiza-canuto-b88960389
+- 💼 LinkedIn: [Maria luiza Canuto] https:www.linkedin.com/in/maria-luizacanuto
 - 📧 Email: malucsiva2008@gmail.com
 
 ⭐ Thanks for visiting my profile!
