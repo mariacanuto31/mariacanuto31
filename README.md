@@ -18,22 +18,6 @@
 
 🎯 My goal is to become a Software Engineer and build innovative solutions that make a positive impact
 
-## 📊 Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariacanuto31&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacanuto31&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🔥 Contribuion Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mariacanuto31&theme=tokyonight"/>
-</p>
-
 ## 💻 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,html,css,js,git,github,vscode" />
