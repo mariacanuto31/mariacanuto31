@@ -4,6 +4,11 @@
 
 ## 👩‍💻 About Me
 
+## 🚀 Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,html,css,js,mysql,powershell" />
+</p>
 🎓 Computer Engineering student at Estácio University (Brazil)
 
 💡 Passionate about Software Development, Data Analysis, and Technology.
@@ -17,6 +22,20 @@
 - Git & GitHub
 
 🎯 My goal is to become a Software Engineer and build innovative solutions that make a positive impact
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mariacanuto31&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacanuto31&layout=compact&theme=tokyonight"/>
+</p>
+
+## 🔥 Contribuições
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mariacanuto31&theme=tokyonight"/>
+</p>
+
 
 ## 💻 Tech Stack
 <p align="left">
@@ -33,14 +52,15 @@ Power BI • Learning SQL • Microsoft Office
 - Web Development
 - Data Analytics
 
-## 🎯 2026 Goals
 
-- 🚀 Build a strong portfolio
-- 💼 Get my first internship in Technology
-- 📊 Develop Power BI dashboards
-- 🌐 Create Full Stack projects
-- ☁️ Learn Cloud Computing
+## 🎯 Objetivos
 
+- 🎓 Engenharia da Computação
+- ☁️ Especialização em Cloud Computing
+- 🌐 Engenharia de Redes
+- 🤖 Inteligência Artificial
+- 📊 Ciência e Engenharia de Dados
+- 🌍 Trabalhar em uma Big Tech
 
 ## 📫 Connect with Me
 
