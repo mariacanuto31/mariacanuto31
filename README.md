@@ -38,16 +38,16 @@ Power BI • Microsoft Office
 
 ## 🎯 Objective Trajectory
 
-- 🎓 Engenharia da Computação
-- ☁️ Especialização em Cloud Computing
-- 🌐 Engenharia de Redes
-- 🤖 Inteligência Artificial
-- 📊 Ciência e Engenharia de Dados
-- 🌍 Trabalhar em uma Big Tech
+- 🎓 Computer Engineering
+- ☁️ Specialization in Cloud Computing
+- 🌐 Network Engineering
+- 🤖 Artificial Intelligence
+- 📊 Data Science and Engineering
+- 🌍 Working at a Big Tech company
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https:www.linkedin.com/in/maria-luizacanuto
+- 💼 LinkedIn: https://www.linkedin.com/in/maria-luizacanuto
 - 📧 Email: Malucsiva2008@gmail.com
 
 ⭐ Thanks for visiting my profile!
