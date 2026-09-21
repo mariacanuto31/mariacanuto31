@@ -48,6 +48,6 @@ Power BI • Microsoft Office
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/maria-luizacanuto
-- 📧 Email: Malucsiva2008@gmail.com
+- 📧 Email: Malucsilva2008@gmail.com
 
 ⭐ Thanks for visiting my profile!
