@@ -15,6 +15,8 @@
 - JavaScript
 - Power BI
 - Git & GitHub
+- Python
+- AWS
 
 🎯 My goal is to become a Software Engineer and build innovative solutions that make a positive impact
 
