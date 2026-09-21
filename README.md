@@ -22,7 +22,7 @@
 
 ## 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,git,github,vscode,python,AWS" />
 </p>
 
 Power BI • Microsoft Office
@@ -36,7 +36,7 @@ Power BI • Microsoft Office
 - Data Analytics
 
 
-## 🎯 Objetivos
+## 🎯 Objective Trajectory
 
 - 🎓 Engenharia da Computação
 - ☁️ Especialização em Cloud Computing
@@ -47,7 +47,7 @@ Power BI • Microsoft Office
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [Maria luiza Canuto] https:www.linkedin.com/in/maria-luizacanuto
-- 📧 Email: malucsiva2008@gmail.com
+- 💼 LinkedIn: https:www.linkedin.com/in/maria-luizacanuto
+- 📧 Email: Malucsiva2008@gmail.com
 
 ⭐ Thanks for visiting my profile!
